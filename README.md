@@ -105,5 +105,7 @@ It is possible to observe further with **feature selection** techniques to reduc
 
 Also to try various other **supervised machine learning** models for improved prediction performance.
 
+## Resources
 
+https://www.udemy.com/course/data-science-for-business-6-real-world-case-studies/
 
