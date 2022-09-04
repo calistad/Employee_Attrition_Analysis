@@ -87,13 +87,23 @@ They also have the lowest monthly income compared to the other jobs, this might 
 
 ![Screen Shot 2022-09-04 at 10 04 50 AM](https://user-images.githubusercontent.com/88747464/188317953-37189849-d3f4-4b55-8b3c-96b4066fb756.png)
 
+## Summary
 
+To conclude, these factors could be helpful for the company to determine which employees might leave.
 
+`Age`, `DailyRate`, `EnvironmentSatisfaction`, `JobSatisfaction`, 	`MonthlyIncome`, `StockOptionLevel`, `TotalWorkingYears`,  `YearsAtCompany`, `DistanceFromHome`,	`NumCompaniesWorked`,	and `OverTime`.
 
+Although the deep learning model achieved 86% accuracy, that could be misleading since the dataset is imbalanced. 
 
+The better KPI would be the **F1 score**, which is the overall Measure of a model’s accuracy that combines precision and recall.
 
+The F1 score for stayed employees is 92%, but for left employees is only 50%. 
 
+### Further Insights
 
+It is possible to observe further with **feature selection** techniques to reduce and determine the most significant factors. 
+
+Also to try various other **supervised machine learning** models for improved prediction performance.
 
 
 
