@@ -74,18 +74,19 @@ They also have the lowest monthly income compared to the other jobs, this might 
 
 **Model Summary**
 
-![Screen Shot 2022-09-04 at 10 04 05 AM](https://user-images.githubusercontent.com/88747464/188317910-93cf4a6d-34f6-4860-ba2d-b03855e8fbd9.png)
+![Screen Shot 2023-04-09 at 9 54 56 PM](https://user-images.githubusercontent.com/88747464/230810170-92138355-8408-4adc-9d09-f06068d26573.png)
 
-![Screen Shot 2022-09-04 at 10 04 15 AM](https://user-images.githubusercontent.com/88747464/188317929-88432901-beb1-45f7-8e3e-9350cd812b46.png)
-![Screen Shot 2022-09-04 at 10 04 22 AM](https://user-images.githubusercontent.com/88747464/188317932-bed08804-d0fd-4d4a-a9dc-fb3975f2d015.png)
+![Screen Shot 2023-04-09 at 9 55 45 PM](https://user-images.githubusercontent.com/88747464/230810250-3115b270-c2c6-418a-a182-c406201c455c.png)
+
+![Screen Shot 2023-04-09 at 9 56 11 PM](https://user-images.githubusercontent.com/88747464/230810264-0e50a3ca-5200-4c36-9621-fd77eb29b00e.png)
 
 **Confusion Matrix**
 
-![10](https://user-images.githubusercontent.com/88747464/188317947-b122bca7-32c1-46a3-b68d-fe07c146135c.png)
+![Screen Shot 2023-04-09 at 9 56 53 PM](https://user-images.githubusercontent.com/88747464/230810347-d0a9e695-4221-4fa7-bd6c-a5d65c821718.png)
 
 **Classification Report**
 
-![Screen Shot 2022-09-04 at 10 04 50 AM](https://user-images.githubusercontent.com/88747464/188317953-37189849-d3f4-4b55-8b3c-96b4066fb756.png)
+![Screen Shot 2023-04-09 at 9 57 02 PM](https://user-images.githubusercontent.com/88747464/230810357-c7026890-fa06-4fb4-b439-ac9b1555df08.png)
 
 ## Summary
 
@@ -97,7 +98,7 @@ Although the deep learning model achieved 86% accuracy, that could be misleading
 
 The better KPI would be the **F1 score**, which is the overall Measure of a model’s accuracy that combines precision and recall.
 
-The F1 score for stayed employees is 92%, but for left employees is only 50%. 
+The F1 score for stayed employees is 93%, but for left employees is only 27%. 
 
 ### Further Insights
 
